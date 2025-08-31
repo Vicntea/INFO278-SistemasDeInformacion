@@ -1,0 +1,341 @@
+{
+  "asignaturas": {
+    "BAIN065": {
+      "nombre": "ÁLGEBRA PARA INGENIERÍA",
+      "semestre": "I"
+    },
+    "BAIN067": {
+      "nombre": "GEOMETRÍA PARA INGENIERÍA",
+      "semestre": "I"
+    },
+    "BAIN069": {
+      "nombre": "QUÍMICA PARA INGENIERÍA",
+      "semestre": "I"
+    },
+    "INFO063": {
+      "nombre": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+      "semestre": "I"
+    },
+    "INFO073": {
+      "nombre": "TALLER DE INGENIERÍA: INTRODUCCIÓN A LA PROFESIÓN",
+      "semestre": "I"
+    },
+    "BAIN071": {
+      "nombre": "COMUNICACIÓN IDIOMA ESPAÑOL",
+      "semestre": "II"
+    },
+    "BAIN073": {
+      "nombre": "ÁLGEBRA LINEAL PARA INGENIERÍA",
+      "semestre": "II"
+    },
+    "BAIN075": {
+      "nombre": "CÁLCULO EN UNA VARIABLE",
+      "semestre": "II"
+    },
+    "DYRE070": {
+      "nombre": "EDUCACIÓN FÍSICA Y SALUD",
+      "semestre": "II"
+    },
+    "ELECT12": {
+      "nombre": "OFG 1",
+      "semestre": "II"
+    },
+    "INFO081": {
+      "nombre": "PROGRAMACIÓN",
+      "semestre": "II"
+    },
+    "INFO083": {
+      "nombre": "TALLER DE INGENIERÍA: PROGRAMACIÓN APLICADA",
+      "semestre": "II"
+    },
+    "BAIN077": {
+      "nombre": "FÍSICA: MECÁNICA",
+      "semestre": "III"
+    },
+    "BAIN079": {
+      "nombre": "COMUNICACIÓN IDIOMA INGLÉS",
+      "semestre": "III"
+    },
+    "BAIN081": {
+      "nombre": "ECUACIONES DIFERENCIALES PARA INGENIERÍA",
+      "semestre": "III"
+    },
+    "BAIN083": {
+      "nombre": "CÁLCULO EN VARIAS VARIABLES",
+      "semestre": "III"
+    },
+    "INFO085": {
+      "nombre": "ESTRUCTURA DE DATOS Y ALGORITMOS",
+      "semestre": "III"
+    },
+    "INFO088": {
+      "nombre": "TALLER DE INGENIERÍA: ESTRUCTURA DE DATOS Y ALGORITMOS",
+      "semestre": "III"
+    },
+    "BAIN085": {
+      "nombre": "FÍSICA: ONDAS Y ELECTROMAGNETISMO",
+      "semestre": "IV"
+    },
+    "BAIN087": {
+      "nombre": "MÉTODOS NUMÉRICOS PARA INGENIERÍA",
+      "semestre": "IV"
+    },
+    "BAIN091": {
+      "nombre": "ESTADÍSTICA Y PROBABILIDADES PARA INGENIERÍA",
+      "semestre": "IV"
+    },
+    "INFO090": {
+      "nombre": "PROGRAMACIÓN ORIENTADA A OBJETO",
+      "semestre": "IV"
+    },
+    "INFO099": {
+      "nombre": "ESTRUCTURAS DISCRETAS",
+      "semestre": "IV"
+    },
+    "INFO104": {
+      "nombre": "TALLER DE CONSTRUCCIÓN DE SOFTWARE",
+      "semestre": "IV"
+    },
+    "BAIN140": {
+      "nombre": "INGLÉS INSTRUMENTAL",
+      "semestre": "V"
+    },
+    "EICI146": {
+      "nombre": "PRÁCTICA INICIAL",
+      "semestre": "V"
+    },
+    "ELECT100": {
+      "nombre": "OPTATIVO DE ESPECIALIZACIÓN I",
+      "semestre": "V"
+    },
+    "INFO128": {
+      "nombre": "ARQUITECTURA DE COMPUTADORES",
+      "semestre": "V"
+    },
+    "INFO133": {
+      "nombre": "BASE DE DATOS",
+      "semestre": "V"
+    },
+    "INFO139": {
+      "nombre": "TEORÍA DE AUTÓMATAS",
+      "semestre": "V"
+    },
+    "INFO145": {
+      "nombre": "DISEÑO Y ANÁLISIS DE ALGORITMOS",
+      "semestre": "V"
+    },
+    "BAIN150": {
+      "nombre": "INGLÉS FUNCIONAL",
+      "semestre": "VI"
+    },
+    "INFO188": {
+      "nombre": "PROGRAMACIÓN EN PARADIGMAS FUNCIONAL Y PARALELO",
+      "semestre": "VI"
+    },
+    "INFO198": {
+      "nombre": "SISTEMAS OPERATIVOS",
+      "semestre": "VI"
+    },
+    "INFO200": {
+      "nombre": "INVESTIGACIÓN OPERATIVA",
+      "semestre": "VI"
+    },
+    "INFO208": {
+      "nombre": "INGENIERÍA DE REQUISITOS",
+      "semestre": "VI"
+    },
+    "INFO229": {
+      "nombre": "ARQUITECTURA DE SOFTWARE",
+      "semestre": "VI"
+    },
+    "ELECT101": {
+      "nombre": "OPTATIVO DE ESPECIALIZACIÓN II",
+      "semestre": "VII"
+    },
+    "INFO221": {
+      "nombre": "GESTIÓN ORGANIZACIONAL",
+      "semestre": "VII"
+    },
+    "INFO239": {
+      "nombre": "COMUNICACIONES",
+      "semestre": "VII"
+    },
+    "INFO245": {
+      "nombre": "INTERACCIÓN HUMANO-COMPUTADOR",
+      "semestre": "VII"
+    },
+    "INFO248": {
+      "nombre": "INGENIERÍA DE SOFTWARE",
+      "semestre": "VII"
+    },
+    "INFO257": {
+      "nombre": "INTELIGENCIA ARTIFICIAL",
+      "semestre": "VII"
+    },
+    "ELECT111": {
+      "nombre": "OPTATIVO DE ESPECIALIZACIÓN III",
+      "semestre": "VIII"
+    },
+    "INFO270": {
+      "nombre": "EVALUACIÓN DE PROYECTOS INFORMÁTICOS",
+      "semestre": "VIII"
+    },
+    "INFO276": {
+      "nombre": "REDES",
+      "semestre": "VIII"
+    },
+    "INFO278": {
+      "nombre": "SISTEMAS DE INFORMACIÓN",
+      "semestre": "VIII"
+    },
+    "INFO280": {
+      "nombre": "SEMINARIO DE ÉTICA PROFESIONAL",
+      "semestre": "VIII"
+    },
+    "INFO282": {
+      "nombre": "TALLER DE INGENIERÍA DE SOFTWARE",
+      "semestre": "VIII"
+    },
+    "ELECT112": {
+      "nombre": "OPTATIVO DE PROFUNDIZACIÓN I",
+      "semestre": "IX"
+    },
+    "INFO283": {
+      "nombre": "TALLER DE EMPRENDIMIENTO",
+      "semestre": "IX"
+    },
+    "INFO286": {
+      "nombre": "SISTEMAS DE GESTIÓN",
+      "semestre": "IX"
+    },
+    "INFO288": {
+      "nombre": "SISTEMAS DISTRIBUIDOS",
+      "semestre": "IX"
+    },
+    "INFO289": {
+      "nombre": "TALLER DE INTEGRACIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN",
+      "semestre": "IX"
+    },
+    "INFO290": {
+      "nombre": "MÉTODOS Y MODELOS DE INGENIERÍA DE SOFTWARE",
+      "semestre": "IX"
+    },
+    "ELECT116": {
+      "nombre": "OPTATIVO DE PROFUNDIZACIÓN II",
+      "semestre": "X"
+    },
+    "INFO293": {
+      "nombre": "TECNOLOGÍA DE LA INFORMACIÓN PARA LA GESTIÓN ORGANIZACIONAL",
+      "semestre": "X"
+    },
+    "INFO294": {
+      "nombre": "REALIDAD TECNOLÓGICA NACIONAL",
+      "semestre": "X"
+    },
+    "INFO297": {
+      "nombre": "TALLER DE TÍTULO",
+      "semestre": "X"
+    },
+    "INFO295": {
+      "nombre": "PRÁCTICA PROFESIONAL (a) y (b)",
+      "semestre": "XI"
+    },
+    "INFO298": {
+      "nombre": "PROYECTO DE TÍTULO: ARTÍCULO DE INVESTIGACIÓN (b)",
+      "semestre": "XI"
+    },
+    "INFO299": {
+      "nombre": "PROYECTO DE TÍTULO: MEMORIA (a)",
+      "semestre": "XI"
+    }
+  },
+  "conexiones": [
+    { "origen": "BAIN065", "destino": "BAIN073" },
+    { "origen": "BAIN065", "destino": "BAIN075" },
+    { "origen": "BAIN065", "destino": "BAIN077" },
+    { "origen": "BAIN067", "destino": "BAIN075" },
+    { "origen": "BAIN067", "destino": "BAIN077" },
+    { "origen": "INFO063", "destino": "INFO081" },
+    { "origen": "INFO063", "destino": "INFO083" },
+    { "origen": "INFO073", "destino": "INFO083" },
+    { "origen": "BAIN073", "destino": "BAIN081" },
+    { "origen": "BAIN073", "destino": "BAIN091" },
+    { "origen": "BAIN073", "destino": "INFO099" },
+    { "origen": "BAIN073", "destino": "INFO200" },
+    { "origen": "BAIN075", "destino": "BAIN081" },
+    { "origen": "BAIN075", "destino": "BAIN083" },
+    { "origen": "BAIN075", "destino": "BAIN085" },
+    { "origen": "INFO081", "destino": "INFO085" },
+    { "origen": "INFO081", "destino": "INFO088" },
+    { "origen": "INFO081", "destino": "INFO090" },
+    { "origen": "INFO083", "destino": "INFO088" },
+    { "origen": "BAIN077", "destino": "BAIN085" },
+    { "origen": "BAIN081", "destino": "BAIN087" },
+    { "origen": "BAIN083", "destino": "INFO200" },
+    { "origen": "BAIN083", "destino": "INFO221" },
+    { "origen": "INFO085", "destino": "INFO104" },
+    { "origen": "INFO085", "destino": "INFO145" },
+    { "origen": "INFO088", "destino": "INFO104" },
+    { "origen": "INFO088", "destino": "INFO128" },
+    { "origen": "INFO088", "destino": "INFO139" },
+    { "origen": "INFO088", "destino": "INFO198" },
+    { "origen": "BAIN085", "destino": "EICI146" },
+    { "origen": "BAIN087", "destino": "EICI146" },
+    { "origen": "BAIN091", "destino": "EICI146" },
+    { "origen": "BAIN091", "destino": "INFO128" },
+    { "origen": "BAIN091", "destino": "INFO145" },
+    { "origen": "BAIN091", "destino": "INFO200" },
+    { "origen": "INFO090", "destino": "INFO188" },
+    { "origen": "INFO099", "destino": "EICI146" },
+    { "origen": "INFO099", "destino": "INFO128" },
+    { "origen": "INFO099", "destino": "INFO139" },
+    { "origen": "INFO099", "destino": "INFO145" },
+    { "origen": "INFO104", "destino": "EICI146" },
+    { "origen": "INFO104", "destino": "INFO133" },
+    { "origen": "INFO104", "destino": "INFO208" },
+    { "origen": "INFO104", "destino": "INFO221" },
+    { "origen": "INFO104", "destino": "INFO289" },
+    { "origen": "BAIN140", "destino": "BAIN150" },
+    { "origen": "INFO128", "destino": "INFO188" },
+    { "origen": "INFO128", "destino": "INFO198" },
+    { "origen": "INFO133", "destino": "INFO208" },
+    { "origen": "INFO133", "destino": "INFO229" },
+    { "origen": "INFO139", "destino": "INFO239" },
+    { "origen": "INFO145", "destino": "INFO188" },
+    { "origen": "INFO145", "destino": "INFO257" },
+    { "origen": "BAIN150", "destino": "INFO245" },
+    { "origen": "INFO188", "destino": "INFO257" },
+    { "origen": "INFO198", "destino": "INFO239" },
+    { "origen": "INFO198", "destino": "INFO288" },
+    { "origen": "INFO200", "destino": "INFO270" },
+    { "origen": "INFO208", "destino": "INFO245" },
+    { "origen": "INFO208", "destino": "INFO248" },
+    { "origen": "INFO229", "destino": "INFO248" },
+    { "origen": "EICI146", "destino": "INFO221" },
+    { "origen": "INFO221", "destino": "INFO270" },
+    { "origen": "INFO221", "destino": "INFO278" },
+    { "origen": "INFO221", "destino": "INFO280" },
+    { "origen": "INFO239", "destino": "INFO276" },
+    { "origen": "INFO245", "destino": "INFO282" },
+    { "origen": "INFO248", "destino": "INFO270" },
+    { "origen": "INFO248", "destino": "INFO278" },
+    { "origen": "INFO248", "destino": "INFO282" },
+    { "origen": "INFO270", "destino": "INFO283" },
+    { "origen": "INFO270", "destino": "INFO286" },
+    { "origen": "INFO270", "destino": "INFO295" },
+    { "origen": "INFO276", "destino": "INFO289" },
+    { "origen": "INFO276", "destino": "INFO295" },
+    { "origen": "INFO278", "destino": "INFO286" },
+    { "origen": "INFO278", "destino": "INFO295" },
+    { "origen": "INFO280", "destino": "INFO293" },
+    { "origen": "INFO280", "destino": "INFO295" },
+    { "origen": "INFO282", "destino": "INFO290" },
+    { "origen": "INFO282", "destino": "INFO295" },
+    { "origen": "INFO286", "destino": "INFO293" },
+    { "origen": "INFO286", "destino": "INFO297" },
+    { "origen": "INFO289", "destino": "INFO297" },
+    { "origen": "INFO290", "destino": "INFO297" },
+    { "origen": "INFO297", "destino": "INFO298" },
+    { "origen": "INFO297", "destino": "INFO299" }
+  ]
+}
